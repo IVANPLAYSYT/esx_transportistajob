@@ -1,0 +1,1 @@
+# esx_transportistajob este script de transtortista no esta terminado aun peroya se puede usar es un script con mesajes en 3d y tiene un npc para la mision la mision esta en el puerto de barcos veras un npc que te dara una mision en una puerta
